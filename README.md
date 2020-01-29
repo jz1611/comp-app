@@ -1,3 +1,18 @@
+# Plan
+- Authorization with middleware to access restricted page
+- Serve static images
+- Redux to handle a counter
+  - update count action
+- put end point to update count in database
+- queries for somethhing
+- at least one functional component
+- componentDidUpdate
+- use all datatypes in database
+- edit meta data
+- CSS stuff
+
+
+
 # Competencies to Complete
 ## Routing
 - Student can add ReactRouter to their code base
@@ -26,7 +41,7 @@
 # Elective Competencies
 ## Components
 - Student can create functional components that receive and render props
-  - (fuctional)
+  - (functional)
 ## Lifecycle
 - Student can use compDidUpdate in their code
   - (componentDidUpdate)
